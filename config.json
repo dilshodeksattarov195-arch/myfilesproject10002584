@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfync",
+        "uuid": 1377272,
+        "checksum": "82p4ik"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
